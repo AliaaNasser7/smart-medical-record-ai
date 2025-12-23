@@ -1,0 +1,6 @@
+[submodule "ai_modules/prescription_reader"]
+	path = ai_modules/prescription_reader
+	url = https://github.com/AliaaNasser7/Handwritten_Medical_Prescription.git
+[submodule "ai_modules/medical_chatbot"]
+	path = ai_modules/medical_chatbot
+	url = https://github.com/AliaaNasser7/Medical_Chatbot.git
